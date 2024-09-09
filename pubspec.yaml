@@ -13,9 +13,9 @@ dependencies:
     sdk: flutter
   provider: ^6.1.2
   video_player :
-  git:
-    url: https://gitee.com/openharmony-sig/flutter_packages.git
-    path: packages/video_player/video_player
+    git:
+      url: https://gitee.com/openharmony-sig/flutter_packages.git
+      path: packages/video_player/video_player
   wakelock_plus: ^1.2.5
 
 dev_dependencies:
